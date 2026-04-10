@@ -11,6 +11,15 @@ A spatial equity analysis identifying communities caught in a **double bind** â€
 
 ---
 
+## Maps
+
+| Layer | Link |
+|---|---|
+| Access Gap Index | [View Map](https://arcg.is/Kavby) |
+| Transit Stop Density | [View Map](https://arcg.is/1jOuKv1) |
+| Job Proximity Score | [View Map](https://arcg.is/0qSXri) |
+| Displacement Risk | [View Map](https://arcg.is/HeCjn1) |
+
 ## The Question
 
 Which King County census tracts face the worst combination of:
