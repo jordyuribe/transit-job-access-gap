@@ -7,7 +7,7 @@ A spatial equity analysis identifying communities caught in a **double bind** â€
 
 ## Story Map
 
-[Disconnected: Transit & Job Access Gap in King County](https://storymaps.arcgis.com/stories/50f01148145c40219330de0a83009966)
+[The Double Bind: Displacement & Mobility Gaps in King County](https://storymaps.arcgis.com/stories/50f01148145c40219330de0a83009966)
 
 ---
 
